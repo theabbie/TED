@@ -1,0 +1,26 @@
+{
+  "name": "ted-api",
+  "version": "1.0.0",
+  "description": "Unofficial TED API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/TED.git"
+  },
+  "keywords": [
+    "ted",
+    "theabbie"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/TED/issues"
+  },
+  "homepage": "https://github.com/theabbie/TED#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
